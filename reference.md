@@ -1,0 +1,3 @@
+- **Reference ⬇️**
+  - [Inspiration Article](https://jsfiddle.net/codepo8/tgEx6/7/)
+  - [Patern Svg](https://loading.io/pattern/)
